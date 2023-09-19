@@ -2,7 +2,7 @@
 
 ## Chapter 2. Understanding containers
 
-### Creating the Kiada container image
+### Creating the K8s container image
 
 Building the **`kiada:1.0`** image:
 - [Makefile](kiada-0.1/Makefile) - contains commands to build and push the image
